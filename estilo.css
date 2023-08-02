@@ -1,4 +1,4 @@
-body {
+debody {
     background: rgb(70, 142, 236);
     font: normal 15pt arial;
 
@@ -23,7 +23,7 @@ section {
 
 div {
     text-align: center;
-    width: 50px;
+    width: 50%;
 }
 
 footer {
